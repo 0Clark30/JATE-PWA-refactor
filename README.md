@@ -17,18 +17,17 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 The installation requires a manual deployment process.
 
-1. Git clone <git@github.com:0Clark30/Social-Network-Api.git>
-2. NPM i
-3. NPM run start
+1. Go to link in usage and click install
+
 
 ## Usage
 
 
 
-[Link to Walkthrough Video](https://www.loom.com/share/f94c45a45cb047ecad08891e08fe1cb3) 
+[Link to Render deployment](https://jate-pwa-refactor.onrender.com/) 
 .
 
-[Link to GitHub Repository](https://github.com/0Clark30/Social-Network-Api)
+[Link to GitHub Repository](https://github.com/0Clark30/JATE-PWA-refactor)
 
 ## License
 Copyright <2024> <COPYRIGHT Austin Clark>
